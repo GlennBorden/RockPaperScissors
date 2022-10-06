@@ -1,0 +1,21 @@
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+}
+#gameDiv{
+    font-family:'Times New Roman', Times, serif;
+    border: 5px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: lightgrey;
+    text-align: center;
+}
+#titleText{
+    color: brown;
+}
+#userText{
+    color: blue;
+}
+#cpuText{
+    color: rgb(255, 94, 0);
+}
